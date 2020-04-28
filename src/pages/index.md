@@ -2,7 +2,7 @@
 title: home
 banner:
   title: BH Consultants
-  subtitle: Sed magna in pharetra ultricies dolor sit consequat magna.
+  subtitle: Helping your business grow in the Cloud!
   actions:
   - label: Learn More
     url: "/no-sidebar"
