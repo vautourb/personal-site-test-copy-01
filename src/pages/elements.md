@@ -1,6 +1,6 @@
 ---
 title: Home | BH Consultants
-subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
+subtitle: Using the cloud to your advantage
 menus:
   main:
     title: Elements
